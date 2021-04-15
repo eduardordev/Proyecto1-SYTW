@@ -12,15 +12,28 @@ class App extends Component {
     render() {
         return (
             <div className="app">
+                <div className = "header">
+                   <Header></Header>
+                </div>
                <div className = "navbar">
                    <NavBar></NavBar>
                </div>
-               <div className = "header"></div>
-               <div className = "carrousel"></div>
-               <div className = "main"></div>
-               <div className = "footer1"></div>
-               <div className = "footer2"></div>
-               <div className = "footer3"></div>
+               
+               <div className = "carrousel">
+                   <Carrousel></Carrousel>
+               </div>
+               <div className = "main">
+                   <Main></Main>
+               </div>
+               <div className = "footer1">
+                   <Footer1></Footer1>
+               </div>
+               <div className = "footer2">
+                    <Footer2></Footer2>
+               </div>
+               <div className = "footer3">
+                    <Footer3></Footer3>
+               </div>
             </div>
         );
     }

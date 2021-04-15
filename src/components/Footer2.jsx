@@ -3,9 +3,9 @@ import "./footer2.css";
 
 class Footer2 extends Component{
     render(){
-        return{
-            
-        };
+        return(
+            <div></div>
+        );
     }
 };
 

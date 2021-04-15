@@ -9,6 +9,7 @@ body{
     width: 100%;
     background-color: #f2f2f2;
     font-family: 'DM Sans', sans-serif;
+    min-height: 100vh;
     
 }
 
@@ -17,11 +18,14 @@ body{
     flex-direction: column;
 }
 
-.navbar{
+.header{
     display: flex;
-    flex-wrap: wrap;
+    justify-content: right;
+    align-items: center;
+    list-style-type: none;
     text-decoration: none;
     background-color: #242424;
-    color: white;
+    
+    
 }
 

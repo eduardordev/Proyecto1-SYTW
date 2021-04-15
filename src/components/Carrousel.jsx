@@ -3,9 +3,9 @@ import "./carrousel.css";
 
 class Carrousel extends Component{
     render(){
-        return{
-
-        };
+        return(
+            <div></div>
+        );
     }
 };
 

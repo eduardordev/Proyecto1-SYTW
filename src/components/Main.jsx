@@ -3,9 +3,9 @@ import "./main.css";
 
 class Main extends Component{
     render(){
-        return{
-            
-        };
+        return(
+            <div></div>
+        );
     }
 };
 
