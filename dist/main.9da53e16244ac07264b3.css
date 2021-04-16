@@ -1,0 +1,145 @@
+@import url(https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Rubik:wght@300;400;500;600;700;800;900&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Rubik:wght@300;400;500;600;700;800;900&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Rubik:wght@300;400;500;600;700;800;900&display=swap);
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background-color: #f2f2f2;
+    font-family: 'DM Sans', sans-serif;
+    min-height: 100vh;
+    
+}
+
+.app{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.header{
+    display: inline;
+    width: 100%;
+    height: 5.6vh;
+    background-color: #242424;
+    list-style-type: none;
+    text-decoration: none;
+
+}
+
+.navbar1{
+    display: inline;
+    width: 100%;
+    height: 12vh;
+    background-color: #000000;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.images{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    top: 0;
+    left: 0;
+}
+.logo{
+    height: 8vh;
+    width: 8vh;
+    margin-top: 2vh;
+    margin-left: 3.5vw;
+}
+
+.navhead{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.navlinks1{
+    color: white;
+    margin-left: 4vw;
+    margin-top: 1.5vh;
+}
+
+.h1, .h2, .h3{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18px;
+}
+
+.h2, .h3{
+    margin-left: 2vw;
+}
+
+.basket{
+    margin-top: 1vw;
+    margin-left: 65vw;
+}
+.lili2{
+    padding: 2vh 2.5vw;
+    float:right;
+}
+
+
+.navbar{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    float: right;
+    list-style-type: none;
+    text-decoration: none;
+    background-color: #242424;
+    color: white;
+    list-style-type: none;
+    
+}
+
+
+
+
+.navlinks{
+    list-style: none;
+    font-size: 11px;
+    
+    border: 1px;
+    border-right: rgb(84, 84, 84);
+}
+
+.navlinks li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.navlinks li a{
+    transition: all 0.3s ease 0s;
+    
+}
+
+.lili{
+    border:  1px solid rgb(67, 67, 67);;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    padding: 2vh 3.5vw;
+    float: right;
+}
+
+.lili:hover{
+    background-color:#0487eb;
+    
+}
+
+
+
+
+
+
+
