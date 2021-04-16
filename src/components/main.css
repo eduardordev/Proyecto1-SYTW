@@ -1,0 +1,32 @@
+.main-pg{
+    background-color: #f2f2f2;
+    display: flex;
+    flex-direction: column;
+}
+
+.title-pg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 48px;
+    margin-top: 2vh;
+    color: #5a5c5f;
+}
+
+.frames1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 215px;
+    padding-right: 215px;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+}
+
+.f1{
+    width: 255px;
+    height: 255px;
+    background-color: black;
+    border-radius: 10px;
+}

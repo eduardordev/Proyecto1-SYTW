@@ -3,6 +3,9 @@
 .lili2{
     padding: 2vh 2.5vw;
     float:right;
+    list-style-type: none !important;
+    text-decoration: none !important;
+    color: white !important;
 }
 
 
@@ -11,10 +14,10 @@
     justify-content: right;
     align-items: center;
     float: right;
-    list-style-type: none;
-    text-decoration: none;
+    height: 6vh !important;
     background-color: #242424;
-    color: white;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
     list-style-type: none;
     
 }
@@ -24,15 +27,17 @@
 
 .navlinks{
     list-style: none;
-    font-size: 11px;
-    
+    font-size: 11px !important;
+    height: 6vh !important;
     border: 1px;
-    border-right: rgb(84, 84, 84);
+    margin-bottom: 0 !important;
+    
+    border-right: rgb(84, 84, 84) !important;
 }
 
 .navlinks li{
     display: inline-block;
-    padding: 0px 20px;
+    
 }
 
 .navlinks li a{
@@ -45,12 +50,16 @@
     border-top: none;
     border-right: none;
     border-bottom: none;
-    padding: 2vh 3.5vw;
+    padding: 2vh 3.5vw !important;
     float: right;
+    transition: 0.3s;
+    list-style-type: none !important;
+    text-decoration: none !important;
+    color: white !important;
 }
 
 .lili:hover{
-    background-color:#0487eb;
+    background-color:#0487eb !important;
     
 }
 

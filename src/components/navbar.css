@@ -24,21 +24,29 @@
 }
 
 .navlinks1{
-    color: white;
-    margin-left: 4vw;
-    margin-top: 1.5vh;
+    
+    margin-left: 2vw !important;
+    margin-top: 1.5vh !important;
 }
 
 .h1, .h2, .h3{
-    font-family: 'DM Sans', sans-serif;
-    font-size: 18px;
+    font-family: 'DM Sans', sans-serif !important;
+    font-size: 18px !important;
+    transition: 0.3s !important;
+    color: white !important;
+    list-style-type: none !important;
+    text-decoration: none !important;
 }
 
 .h2, .h3{
-    margin-left: 2vw;
+    margin-left: 2vw !important;
 }
 
 .basket{
-    margin-top: 1vw;
-    margin-left: 65vw;
+    align-items: center;
+    margin-left: 64vw !important;
+}
+
+.h1:hover, .h2:hover, .h3:hover{
+    color: rgb(114, 114, 114) !important;
 }
