@@ -1,0 +1,68 @@
+.d-md-block{
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.carousel-caption{
+    
+    right: 45% !important;
+    left: 13%!important;
+    text-align: left !important;
+    padding-top: 0% i !important;
+    bottom: 12% !important;
+    
+}
+
+h1{
+    font-size: 60px !important;
+    font-weight: 600 !important;
+}
+
+p{
+    font-size: 30px !important;
+    font-weight: 400;
+}
+
+.btn-warning{
+    color: white !important;
+    background-color: rgb(255, 136, 0) !important;
+    border-color: rgb(255, 136, 0) !important;
+    border-radius: 0 !important;
+    font-size: 12px  !important;
+    font-weight: 600 !important;
+    padding: 1vh 1vw 1vh 1vw !important;
+}
+
+.btn-primary{
+    color: white !important;
+    background-color: #0487eb !important;
+    border-color: #0487eb !important;
+    border-radius: 0 !important;
+    font-size: 12px  !important;
+    margin-top: 2vh !important;
+    font-weight: 600 !important;
+    padding: 1vh 1vw 1vh 1vw !important;
+}
+
+.carousel-indicators [data-bs-target]{
+    width: 8px !important;
+    height: 8px !important;
+    border: none !important;
+    background-color: #0487eb !important ;
+    border-radius: 100%;
+    margin-right: 8px !important;
+    margin-bottom: 1vh !important;
+}
+
+.bottom-bar{
+    width: 20% !important;
+    height: 20% !important;
+    margin-bottom: 15%;
+
+}
+
+h4{
+    color:rgb(163, 97, 224);
+}
