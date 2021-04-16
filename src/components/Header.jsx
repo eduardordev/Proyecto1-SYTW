@@ -5,12 +5,12 @@ class Header extends Component{
     render(){
         return(
             <header>
-                <div class="navbar">
+                <div className="navbar">
                     
-                    <ul class="navlinks">
+                    <ul className="navlinks">
 
                         <a className= "lili">LOG IN</a>
-                        <a className="line"></a>
+                        
                         <a className= "lili2">SUPPORT</a>
                         
                     </ul>

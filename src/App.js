@@ -8,6 +8,7 @@ import Footer1 from "./components/Footer1.jsx";
 import Footer2 from "./components/Footer2.jsx";
 import Footer3 from "./components/Footer3.jsx";
 
+
 class App extends Component {
     render() {
         return (
@@ -15,7 +16,7 @@ class App extends Component {
                 <div className = "header">
                    <Header></Header>
                 </div>
-               <div className = "navbar">
+               <div className = "navbar1">
                    <NavBar></NavBar>
                </div>
                

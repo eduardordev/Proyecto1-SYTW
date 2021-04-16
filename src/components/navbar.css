@@ -1,7 +1,44 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
-li{
-    float:right;
+.images{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    top: 0;
+    left: 0;
 }
-a{
-    float: right;
+.logo{
+    height: 8vh;
+    width: 8vh;
+    margin-top: 2vh;
+    margin-left: 3.5vw;
+}
+
+.navhead{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.navlinks1{
+    color: white;
+    margin-left: 4vw;
+    margin-top: 1.5vh;
+}
+
+.h1, .h2, .h3{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18px;
+}
+
+.h2, .h3{
+    margin-left: 2vw;
+}
+
+.basket{
+    margin-top: 1vw;
+    margin-left: 65vw;
 }

@@ -1,13 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
-.line{
-    height:6vh;
-    width: 1px;
-    background-color: rgb(67, 67, 67);
-    top:0;
-    position: relative;
-}
-.lili, .lili2{
-    padding: 2vh 3vw;
+
+.lili2{
+    padding: 2vh 2.5vw;
     float:right;
 }
 
@@ -16,25 +10,21 @@
     display: flex;
     justify-content: right;
     align-items: center;
+    float: right;
     list-style-type: none;
     text-decoration: none;
     background-color: #242424;
     color: white;
     list-style-type: none;
-    font-size: 1.25rem;
+    
 }
 
 
-header{
-    display: flex;
-    flex-direction: column;
-    background-color: #242424;
-    border: none;
-}
+
 
 .navlinks{
     list-style: none;
-    font-size: 12px;
+    font-size: 11px;
     
     border: 1px;
     border-right: rgb(84, 84, 84);
@@ -50,16 +40,17 @@ header{
     
 }
 
+.lili{
+    border:  1px solid rgb(67, 67, 67);;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    padding: 2vh 3.5vw;
+    float: right;
+}
+
 .lili:hover{
     background-color:#0487eb;
     
 }
 
-a {
-    font-family: "Montserrat", sans-serif;
-    float: right;
-    font-weight: 500;
-    color: #edf0f1;
-    text-decoration: none;
-    justify-content: space-between;
-}
