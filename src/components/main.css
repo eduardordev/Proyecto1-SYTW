@@ -1,3 +1,5 @@
+@import "~animate.css/animate.css";
+
 .main-pg{
     background-color: #f2f2f2;
     display: flex;
@@ -15,13 +17,18 @@
 }
 
 .frames1{
-    display: flex;
-    justify-content: space-between;
+    width: 100%;
+    height: auto;
     align-items: center;
-    padding-left: 215px;
-    padding-right: 215px;
+    padding-left: 200px;
+    padding-right: 200px;
     margin-top: 3vh;
     margin-bottom: 3vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-flow: wrap;
+    
 }
 
 .f1{
@@ -29,4 +36,53 @@
     height: 255px;
     background-color: black;
     border-radius: 10px;
+    margin: 10px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    padding-top: 20px;
+}
+
+.f11, .f12, .f13, .f14{
+    transition: 1.5s all ease-in-out;
+    
+
+
+}
+.f11:hover,.f12:hover, .f13:hover, .f14:hover{
+    
+    transform: scale(1.08);
+}
+
+.f11{
+    margin-right: 12%;
+    
+}
+.f14{
+    margin-left: 12%;
+}
+
+
+h5{
+    color: white;
+    font-size: 17px !important;
+    font-weight: 600 !important;
+    margin-top: -15% !important;
+    margin-bottom: 8% !important;
+    
+}
+.sft{
+    margin-bottom: 0%  !important;
+    
+   
+}
+
+.expl{
+    margin-bottom: -10% !important;
+    margin-top: 5%;
+    color: white;
+    font-weight: 400;
 }
