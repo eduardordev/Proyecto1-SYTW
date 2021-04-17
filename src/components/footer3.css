@@ -1,0 +1,55 @@
+.finalfooter{
+    box-sizing: border-box;
+    background-color: #242424;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    font-size: 12px;
+}
+
+.copyright{
+    color: #7b7f85;
+}
+.optcopy a{
+    color:  #7b7f85;
+    text-decoration: none;
+    margin-left: 10px;
+    transition: 0.2s;
+}
+.optcopy{
+    margin-right: 10vw;
+}
+
+.optcopy a:hover{
+    color:white;
+    
+}
+
+.rolinfo{
+    color:  #7b7f85;
+}
+
+.optcopy1 a{
+    color:  #ffffff;
+    text-decoration: none;
+    margin-left: 5px;
+    transition: 0.2s;
+}
+
+.optcopy1{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.optcopy1 a:hover{
+    color:#7b7f85;
+    
+}
+
+.optcopy1 div{
+    color:#7b7f85;
+    margin-left: 5px;
+}

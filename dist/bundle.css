@@ -47,6 +47,7 @@ body{
     align-items: center;
     top: 0;
     left: 0;
+    cursor: pointer;
 }
 .logo{
     height: 8vh;
@@ -68,6 +69,7 @@ body{
     
     margin-left: 2vw !important;
     margin-top: 1.5vh !important;
+    cursor: pointer;
 }
 
 .h1, .h2, .h3{
@@ -86,6 +88,7 @@ body{
 .basket{
     align-items: center;
     margin-left: 64vw !important;
+    cursor: pointer;
 }
 
 .h1:hover, .h2:hover, .h3:hover{
@@ -97,7 +100,10 @@ body{
     list-style-type: none !important;
     text-decoration: none !important;
     color: white !important;
+    cursor: pointer;
+    
 }
+
 
 
 .navbar{
@@ -147,6 +153,7 @@ body{
     list-style-type: none !important;
     text-decoration: none !important;
     color: white !important;
+    cursor: pointer;
 }
 
 .lili:hover{
@@ -455,7 +462,7 @@ h2{
 }
 
 .section2{
-    margin-bottom: 25px;
+    
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -473,6 +480,7 @@ h2{
     width: 552px;
     height: 98px;
     margin-right: 25px;
+    cursor: pointer;
 }
 
 .barbox1{
@@ -514,10 +522,261 @@ h2{
     
 }
 
+.box{
+    background-color: #fafafa;
+    border-radius: 10px;
+    width: 360px;
+    height: 342px;
+    overflow: hidden;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    margin-right: 25px;
+    margin-top: 25px;
+}
+
+.section3{
+    display: flex;
+    flex-wrap: wrap;
+    
+    padding-left: 200px;
+    padding-right: 45px;
+    
+    
+}
+
+.textybox h5{
+    color:#5a5c5f;
+    font-size: 17px !important;
+    font-weight: 700 !important;
+    margin-top: 5% !important;
+    margin-left: 25px;
+    margin-right: 25px;
+
+}
+
+.more{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+.more1{
+    font-size: 24px;;
+    margin-right: 10px;
+    color: #5a5c5f;
+    cursor: pointer;
+}
+
+.flechita{
+    height: 24px;
+    width: 24px;
+    cursor: pointer;
+    transition: 0.5s all ease-in-out;
+}
+
+.flechita:hover{
+    margin-left: 5px;
+}
+.about{
+    box-sizing: border-box;
+    background-color: #535558;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    
+}
+.sobre{
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: 600;
+}
+.info{
+    justify-content: center;
+    text-align: center;
+    color: #bdbdbd;
+    font-size: 18px;
+    font-weight: 500;
+    padding-right: 450px;
+    padding-left: 450px;
+
+}
+.footernav{
+    box-sizing: border-box;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 30px;
+    
+}
+.imgsf{
+    display: flex;
+    flex-direction: column;
+}
 
 
+.isotype{
+    
+    width: 150px;
+    height: 150x;
+    margin-right: 40px;
+    cursor: pointer;
+}
+.colscont{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+}
+.cols{
+    
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+    
+    
+}
+.titli{
+    color: white !important;
+    list-style: none;
+    text-decoration: none;
+    cursor: text !important;
+    font-size: 16px !important;
+    margin-bottom: 20px;
+    
+}
+
+.col li:hover{
+    color: white;
+}
+
+.col li{
+    color: #8f9399;
+    list-style: none;
+    text-decoration: none;
+    cursor: pointer;
+    transition: 0.2s;
+    font-size: 16px;
+    
+}
+.searchi{
+    color:  #7b7f85;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid #535558 ;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    transition: 0.2s;
+}
+#tt{
+    margin-right: 10px;
+    background-color: black;
+    color: #535558;
+    border: none;
+    width: 220px;
+    
+    
+}
+.searchi:hover{
+    color: white;
+}
+.followbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-left: 0;
+    cursor: pointer;
+    
+}
+
+#col4{
+    margin-left: 100px;
+}
+
+.money{
+    display: flex;
+    flex-direction: row;
+    color:  #7b7f85;
+    font-size: 11px;
+    margin-left: 30px;
+    margin-bottom: 25px;
+}
+
+.currency{
+    color:  #7b7f85;
+    margin-left: 15px;
+    font-size: 11px;
+    transition: 0.2s;
+}
+.currency:hover{
+    color: white;
+}
 
 
+.finalfooter{
+    box-sizing: border-box;
+    background-color: #242424;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    font-size: 12px;
+}
+
+.copyright{
+    color: #7b7f85;
+}
+.optcopy a{
+    color:  #7b7f85;
+    text-decoration: none;
+    margin-left: 10px;
+    transition: 0.2s;
+}
+.optcopy{
+    margin-right: 10vw;
+}
+
+.optcopy a:hover{
+    color:white;
+    
+}
+
+.rolinfo{
+    color:  #7b7f85;
+}
+
+.optcopy1 a{
+    color:  #ffffff;
+    text-decoration: none;
+    margin-left: 5px;
+    transition: 0.2s;
+}
+
+.optcopy1{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.optcopy1 a:hover{
+    color:#7b7f85;
+    
+}
+
+.optcopy1 div{
+    color:#7b7f85;
+    margin-left: 5px;
+}
 @charset "UTF-8";/*!
  * Bootstrap v5.0.0-beta3 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors

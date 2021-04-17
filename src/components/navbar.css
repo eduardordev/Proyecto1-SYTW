@@ -6,6 +6,7 @@
     align-items: center;
     top: 0;
     left: 0;
+    cursor: pointer;
 }
 .logo{
     height: 8vh;
@@ -27,6 +28,7 @@
     
     margin-left: 2vw !important;
     margin-top: 1.5vh !important;
+    cursor: pointer;
 }
 
 .h1, .h2, .h3{
@@ -45,6 +47,7 @@
 .basket{
     align-items: center;
     margin-left: 64vw !important;
+    cursor: pointer;
 }
 
 .h1:hover, .h2:hover, .h3:hover{

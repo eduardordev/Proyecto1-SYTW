@@ -6,7 +6,10 @@
     list-style-type: none !important;
     text-decoration: none !important;
     color: white !important;
+    cursor: pointer;
+    
 }
+
 
 
 .navbar{
@@ -56,6 +59,7 @@
     list-style-type: none !important;
     text-decoration: none !important;
     color: white !important;
+    cursor: pointer;
 }
 
 .lili:hover{

@@ -74,7 +74,7 @@ class Main extends Component{
                             </div>
                             <div className="twoverbox">
                                 <div className="boxy">
-                                    <img src="src\imgs\bluemorado.PNG" alt="" className="rafa" height ="100%" />
+                                    <img src="src\imgs\bluemorado.png" alt="" className="rafa" height ="100%" />
 
                                     <div className="boxyb">
                                         <div className="textybox" >
@@ -140,30 +140,120 @@ class Main extends Component{
                             </div>
 
                         </div>
+
+                        <div className="section3">
                         
-                        <div className="box">
+                            <div className="box">
+                                <img src="src\imgs\pandemic.jpg" alt="" className="rafa" width ="100%"/>
+                                    
+                                <div className="textybox">
+                                    <h5>ROLI's Pandemic PPE Project</h5>
+                            </div>
 
+                                <div className="datext">
+                                    <p>April 16th 2021</p>
+                                    <a>Features</a>
+                                </div>
+
+                            </div>
+                            <div className="box">
+                                <img src="src\imgs\flume.jpg" alt="" className="rafa" width ="100%"/>
+                                    
+                                <div className="textybox">
+                                    <h5>On tour with Flume and his 16 Lightpad Blocks</h5>
+                                </div>
+        
+                                <div className="datext">
+                                    <p>April 16th 2021</p>
+                                    <a>Features</a>
+                                </div>
+
+                            </div>
+                            <div className="box">
+                                <img src="src\imgs\blocks.jpg" alt="" className="rafa" width ="100%"/>
+                                    
+                                <div className="textybox">
+                                    <h5>Watch BLOCKS and ROLI Studio in action</h5>
+                                </div>
+        
+                                <div className="datext">
+                                    <p>April 16th 2021</p>
+                                    <a>Features</a>
+                                </div>
+
+                            </div>
+                            <div className="box">
+                                <img src="src\imgs\edshee.jpg" alt="" className="rafa" width ="100%"/>
+                                    
+                                <div className="textybox">
+                                    <h5>How ROLI artists set Ed Sheeran´s album alight</h5>
+                                </div>
+            
+                                <div className="datext">
+                                    <p>April 16th 2021</p>
+                                    <a>Features</a>
+                                </div>
+
+                            </div>
+                            <div className="box">
+                                <img src="src\imgs\created.jpg" alt="" className="rafa" width ="100%"/>
+                                    
+                                <div className="textybox">
+                                    <h5>Why I created LUMI</h5>
+                                </div>
+                
+                                <div className="datext">
+                                    <p>April 16th 2021</p>
+                                    <a>Features</a>
+                                </div>
+
+                            </div>
+                            <div className="box">
+                                <img src="src\imgs\serum.png" alt="" className="rafa" width ="100%"/>
+                                    
+                                <div className="textybox">
+                                    <h5>Create MPE magic with Serum and ROLI instruments</h5>
+                                </div>
+                
+                                <div className="datext">
+                                    <p>April 16th 2021</p>
+                                    <a>Features</a>
+                                </div>
+
+                            </div>
+                            <div className="box">
+                                <img src="src\imgs\soundhive.png" alt="" className="rafa" width ="100%"/>
+                                    
+                                <div className="textybox">
+                                    <h5>Soundhive Sessions: Crafting a sci-fi sound with Erin Barra</h5>
+                                </div>
+                
+                                <div className="datext">
+                                    <p>April 16th 2021</p>
+                                    <a>Features</a>
+                                </div>
+
+                            </div>
+                            <div className="box">
+                                <img src="src\imgs\lightpad.jpg" alt="" className="rafa" width ="100%"/>
+                                    
+                                <div className="textybox">
+                                    <h5>Lightpad Live: On stage with Flight Of The Conchords, Action Bronson and more</h5>
+                                </div>
+                
+                                <div className="datext">
+                                    <p>April 16th 2021</p>
+                                    <a>Features</a>
+                                </div>
+
+                            </div>
                         </div>
-                        <div className="box">
 
-                        </div>
-                        <div className="box">
-
-                        </div>
-                        <div className="box">
-
-                        </div>
-                        <div className="box">
-
-                        </div>
-                        <div className="box">
-
-                        </div>
-                        <div className="box">
-
-                        </div>
-                        <div className="box">
-
+                        <div className="more">
+                            <div className="more1">
+                                Ver más
+                            </div>
+                            <img className="flechita" src="src\imgs\flechita.png" alt=""/>
                         </div>
                     </div>
                 </div>
