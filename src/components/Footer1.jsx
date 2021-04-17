@@ -10,6 +10,6 @@ class Footer1 extends Component{
                 </div>
         );
     }
-};
+}
 
 export default Footer1;

@@ -21,6 +21,6 @@ class Footer3 extends Component{
             </div>
         );
     }
-};
+}
 
 export default Footer3;

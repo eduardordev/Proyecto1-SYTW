@@ -96,6 +96,6 @@ class Footer2 extends Component{
             </div>
         );
     }
-};
+}
 
 export default Footer2;
