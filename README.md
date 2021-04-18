@@ -69,7 +69,7 @@ npm run build
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Herramientas y frameworks utilizados_
 
 * [Node.js](https://nodejs.org/es/)
 * [React](https://es.reactjs.org/)
