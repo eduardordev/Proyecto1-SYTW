@@ -6,7 +6,7 @@ _El proyecto consiste en escoger una página web que admire o me guste el diseñ
 
 _Para poder instalar este proyecto junto con todas sus dependencias se debe seguir una serie de pasos y tener ciertos frameworks que seran utiles para el funcionamiento del mismo_
 
-Mira **Deployment** para conocer como compilar y ejecutar el proyecto.
+Mira **Despliegue o Ejecución** para conocer como compilar y ejecutar el proyecto.
 
 
 ### Pre-requisitos 📋
