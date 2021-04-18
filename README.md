@@ -2,6 +2,14 @@
 
 _El proyecto consiste en escoger una página web que admire o me guste el diseño y crear una copia idéntica del estilo del sitio_
 
+_Sitio elegido:_
+
+* [Roli](https://roli.com/)
+
+_Sitio recreado:_
+
+* [Copia de Roli](http://stw-uvg.site:3168/)
+
 ## Comenzando 🚀
 
 _Para poder instalar este proyecto junto con todas sus dependencias se debe seguir una serie de pasos y tener ciertos frameworks que seran utiles para el funcionamiento del mismo_
@@ -19,7 +27,7 @@ _Contar con el manejador de versiones de preferencia:_
 
 * [Git](https://git-scm.com/) - Git Bash
 * [GitHub Desktop](https://desktop.github.com/) - GUI GitHub Desktop
-* [GitKraken](https://desktop.github.com/) - GUI GitHub Desktop
+* [GitKraken](https://desktop.github.com/) - GUI GitKraken
 
 _Clonar el repositorio del proyecto en su equipo con el siguiente comando:_
 
