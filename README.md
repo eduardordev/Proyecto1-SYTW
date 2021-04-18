@@ -93,7 +93,7 @@ Usamos [Git](https://git-scm.com/) para el versionado con Git Bash. Para todas l
 
 * A Ludwing Cano por la orientación en el desarrollo web y frameworks web 📢
 * A mis compañeros de clase que brindaron orientacion y ayuda con los problemas que se presentaron en el desarrollo del proyecto 🤓. 
-* A mi primo me presto su computadora para desarrollar el proyecto ya que la mia tuvo problemas 👨‍💻.
+* A mi primo que me presto su computadora para desarrollar el proyecto ya que la mia tuvo problemas 👨‍💻.
 
 ---
 ⌨️ con ❤️ por [eduardorh1312](https://github.com/eduardorh1312)👨‍💻
